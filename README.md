@@ -1,6 +1,6 @@
-# Higher Diploma In Science Data Analytics - National College Of Ireland
+## Higher Diploma In Science Data Analytics - National College Of Ireland
 
-## College Projects
+### College Projects
 
 
 *List of college projects during 2019-2020:*
